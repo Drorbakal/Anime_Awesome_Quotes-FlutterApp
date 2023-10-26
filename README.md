@@ -1,18 +1,7 @@
-# untitled6
+# Anime Awesome Quotes
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Anime_Awesome_Quotes-FlutterApp" 
-"# Anime_Awesome_Quotes-FlutterApp" 
+I have built a new Flutter application that quotes beloved quotes from well-known anime characters. In this application, there are famous quotes. You can search for desired quotes by character, delete quotes from the list, and even restore deleted quotes. Each quote appears on its own card with the character's name and a delete button. At the bottom of the screen, there is a button to restore deleted quotes. 
